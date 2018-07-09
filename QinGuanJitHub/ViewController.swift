@@ -8,6 +8,7 @@
 
 import UIKit
 import CoreML
+import SafariServices
 
 class ViewController: UIViewController {
 
